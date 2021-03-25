@@ -19,3 +19,8 @@ function increment(n){
   n++
   return n
 }
+
+function increment(n){
+  n--
+  return n
+}
