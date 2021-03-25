@@ -42,6 +42,6 @@ function divide(a,b){
 
 function makeInt(n){
 
-parseInt(n, 10)
-return n
+var c = parseInt(n, 10)
+return c
 }
