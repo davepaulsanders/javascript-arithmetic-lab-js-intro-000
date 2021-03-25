@@ -24,3 +24,7 @@ function decrement(n){
   n--
   return n
 }
+
+function add(a,b){
+a+b
+}
