@@ -12,10 +12,10 @@ function multiply(){
 
 
 function divide(){
-  
+
 }
 
 function increment(n){
-  n ++
-  return 'n'
+  n++
+  return n
 }
