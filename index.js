@@ -1,18 +1,13 @@
 function add(){
-
 }
 
 function subtract(){
-
 }
 
 function multiply(){
-
 }
 
-
 function divide(){
-
 }
 
 function increment(n){
@@ -43,4 +38,10 @@ function multiply(a,b){
 function divide(a,b){
   var c = a / b
   return c
+}
+
+function makeInt(n){}
+
+parseInt(n)
+return n
 }
