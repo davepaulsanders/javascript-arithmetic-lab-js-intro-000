@@ -26,6 +26,6 @@ function decrement(n){
 }
 
 function add(a,b){
-a + b
-return
+var c = a + b
+return c
 }
